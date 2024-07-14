@@ -10,3 +10,5 @@ Elections in the World’s largest democracy are unique worldwide. In this assig
 
 TASKS -
 You are provided with a training dataset and a test dataset. Your main task is to train a machine-learning model of your choice (SVM, KNN, DecisionTree, RandomForest, or any other) on this dataset and perform multi-class classification. You can only use the libraries mentioned in the Rules section. No deep learning methods/libraries are allowed (For example- ANN, Pytorch, Keras, Tensorflow, etc).
+
+https://www.kaggle.com/competitions/who-is-the-real-winner/overview
